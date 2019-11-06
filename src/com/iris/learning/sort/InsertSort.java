@@ -3,7 +3,7 @@ package com.iris.learning.sort;
 import java.util.Arrays;
 
 /**
- * @Author: yunrong@wacai.com
+ * @Author:  copy
  * @Description: 插入排序不是通过交换位置而是通过比较找到合适的位置插入元素来达到排序的目的的。
  * 相信大家都有过打扑克牌的经历，特别是牌数较大的。在分牌时可能要整理自己的牌，牌多的时候怎么整理呢？
  * 就是拿到一张牌，找到一个合适的位置插入。这个原理其实和插入排序是一样的。

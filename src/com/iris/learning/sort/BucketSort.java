@@ -3,7 +3,7 @@ package com.iris.learning.sort;
 import java.util.*;
 
 /**
- * @Author: yunrong@wacai.com
+ * @Author:  copy
  * @Description: 假设有一组长度为N的待排关键字序列K[1....n]。首先将这个序列划分成M个的子区间(桶) 。
  * 然后基于某种映射函数，将待排序列的关键字k映射到第i个桶中(即桶数组B的下标i)，
  * 那么该关键字k就作为B[i]中的元素(每个桶B[i]都是一组大小为N/M的序列)。

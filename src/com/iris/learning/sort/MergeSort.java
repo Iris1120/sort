@@ -3,7 +3,7 @@ package com.iris.learning.sort;
 import java.util.Arrays;
 
 /**
- * @Author: yunrong@wacai.com
+ * @Author:  copy
  * @Description: 归并排序是另一种不同的排序方法，因为归并排序使用了递归分治的思想，所以理解起来比较容易。
  * 其基本思想是，先递归划分子问题，然后合并结果。把待排序列看成由两个有序的子序列，然后合并两个子序列，然后把子序列看成由两个有序序列。。。。。
  * 倒着来看，其实就是先两两合并，然后四四合并。。。最终形成有序序列。空间复杂度为O(n)，时间复杂度为O(nlogn)。

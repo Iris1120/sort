@@ -3,7 +3,7 @@ package com.iris.learning.sort;
 import java.util.Arrays;
 
 /**
- * @Author: yunrong@wacai.com
+ * @Author:  copy
  * @Description: 希尔排序是插入排序的一种高效率的实现，也叫缩小增量排序。
  * 简单的插入排序中，如果待排序列是正序时，时间复杂度是O(n)，如果序列是基本有序的，使用直接插入排序效率就非常高。
  * 希尔排序就利用了这个特点。基本思想是：先将整个待排记录序列分割成为若干子序列分别进行直接插入排序，

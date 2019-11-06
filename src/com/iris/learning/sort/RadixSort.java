@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @Author: yunrong@wacai.com
+ * @Author:  copy
  * @Description: 基数排序又是一种和前面排序方式不同的排序方式，基数排序不需要进行记录关键字之间的比较。
  * 基数排序是一种借助多关键字排序思想对单逻辑关键字进行排序的方法。
  * 所谓的多关键字排序就是有多个优先级不同的关键字。

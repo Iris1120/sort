@@ -3,7 +3,7 @@ package com.iris.learning.sort;
 import java.util.Arrays;
 
 /**
- * @Author: yunrong@wacai.com
+ * @Author:  copy
  * @Description: 选择排序的思想其实和冒泡排序有点类似，都是在一次排序后把最小的元素放到最前面。
  * 但是过程不同，冒泡排序是通过相邻的比较和交换。而选择排序是通过对整体的选择。
  * 举个栗子，对5,3,8,6,4这个无序序列进行简单选择排序，首先要选择5以外的最小数来和5交换，
